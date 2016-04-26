@@ -1,0 +1,54 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-25T10:30:00+08:00
+
+====== Preprocessor ======
+Created Monday 25 April 2016
+
+* Preprocessor Directives
+	Directive				Description					Example
+	------------------------------------------------------------------------------------------------------------------
+	#incldue				File inlcude					#include <iostream>								
+	------------------------------------------------------------------------------------------------------------------
+	#define				Macro define					#define MACRO 0
+	#undef				Macro undefine				#undef MACRO
+	------------------------------------------------------------------------------------------------------------------
+	#ifdef				If macro defined				
+	#ifndef				If macro not defined
+																				#define DEBUG_LEVEL 3
+																				
+																				#if DEBUG_LEVEL > 2
+																					............
+																				#else if DEBUG_LEVEL == 2
+																					............
+																				#endif
+																				
+																				#define DEBUG
+																				#if defined DEBUG
+																				#elif !defined DEBUG
+																				#endif
+																				
+																				#ifdef DEBUG
+																				#endif
+																				
+																				#ifndef DEBUG
+																				#endif
+																				
+																				#line 5 " My app"
+																				#error Stop compilation
+																				
+																				#pragma message ("Hello World")
+																				#pragam warming("")
+	------------------------------------------------------------------------------------------------------------------
+	#if					If
+	＃elif				Else if
+	#else 				Else
+	#endif				End if
+	--------------------------------------------------------------
+	#line				Set line number
+	#error				Abort compilation
+	#pragma				Set compiler option
+	
+
+
+

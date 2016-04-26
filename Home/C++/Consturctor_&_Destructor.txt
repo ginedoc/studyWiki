@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-26T08:00:10+08:00
+
+====== Consturctor & Destructor ======
+Created Tuesday 26 April 2016
+
+* Constructor and Destructor are implicity
+
+* Construtor
+	* to initialize the value of the class
+	* no return type
+
+* Destructor 
+	* ~ClassName()	<- no parameter , no return value
+	* Call impicity when an object is destroyed
+	* **termination housekeeping **before the object's memory is reclaimed
+	* public !!
+
+
+* static scope
+	* start : class / variable first defined
+	* end   : until the end of main function / exit
+
+
+

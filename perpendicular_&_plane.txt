@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-20T20:56:40+08:00
+
+====== perpendicular & plane ======
+Created Wednesday 20 April 2016
+
+1.
+* perpendicular vector = ( a , b , c)
+* point at plane = ( x0 , y0 , z0 )
+
+* plane => a * ( x - x0 ) + b * ( y - y0 ) + c * ( z - z0 ) = 0
+
+2.
+* three point on the plane
+	A( a1, b1, c1 )
+	B( a2, b2, c2 )
+	C( a3, b3, c3 )
+
+* find perpendicular vector
+	
+	**n **= **AB **cross **AC**
+
+* select a point ( A,B or C)
+
+* plain => ** n **dot [ x - a1, y - b1, z - c1]^T
+

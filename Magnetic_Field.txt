@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-25T13:59:09+08:00
+
+====== Magnetic Field ======
+Created Monday 25 April 2016
+
+* Biot-Savart Law
+
+				{{./equation.png?type=equation}}
+				
+	[ ] notice that it is similar to {{./equation001.png?type=equation}}
+
+* rewrite Bio-Savart Law 
+
+				{{./equation002.png?type=equation}}			, {{./equation003.png?type=equation}}
+				
+* [[+Straight Line|Straight Line]]
+* [[+Amphere's Law|Amphere's Law]]
+

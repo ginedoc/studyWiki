@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-24T10:36:12+08:00
+
+====== Electric Potential ======
+Created Sunday 24 April 2016
+
+* Eletrical Potentail energy
+	* similar to gravity
+	* F = E q
+	* W = F s = E q s
+	* E = {{./equation.png?type=equation}}
+
+* Eletrical Potential
+
+	* {{./equation001.png?type=equation}}
+	* {{./equation002.png?type=equation}}
+
+

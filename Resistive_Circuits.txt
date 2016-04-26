@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-21T08:05:13+08:00
+
+====== Resistive Circuits ======
+Created Thursday 21 April 2016
+
+* Ohm law
+			
+			V = I R
+			
+* Series resistance 
+
+			R = R1 + R2
+			
+* Parallel resistance 
+
+			R = 1 / ( 1/R1 + 1/R2)
+
+* [[+Analysis method]]
+	* Node Analysis
+	* Mesh Current Analysis
+	* Thevenin / Noden Equivalent

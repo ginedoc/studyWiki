@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-25T14:30:50+08:00
+
+====== Amphere's Law ======
+Created Monday 25 April 2016
+
+from Biot-Savart law we've known:
+
+			{{./equation.png?type=equation}}
+			
+then , 
+
+			{{./equation001.png?type=equation}}
+			
+			{{./equation002.png?type=equation}}
+		
+		∴ {{./equation003.png?type=equation}}
+

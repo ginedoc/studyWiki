@@ -1,0 +1,11 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-25T13:21:57+08:00
+
+====== CH 27 EX 6 ======
+Created Monday 25 April 2016
+
+
+(a) Current density = {{./equation003.png?type=equation}} 
+
+(b) drift velocity = (Current density) {{./equation004.png?type=equation}} (free electron density)

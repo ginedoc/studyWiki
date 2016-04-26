@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-21T08:07:43+08:00
+
+====== Analysis method ======
+Created Thursday 21 April 2016
+
+* Node-Voltage Analysis
+	* General solution
+	* Supernode
+			get the equation for the supernode, (get the relationship of two node)
+	* With Dependent source
+		1. select reference node
+		2. applied KCL -> KVL
+		3. solve it !
+
+* Mesh Current Analysis
+		1.for all mesh , suppose current for each one 
+		2.applied KCL KVL
+		 
+* Thevenin / Node Equivalent
+		for a open source , find its 
+						
+						R , V , I
+						
+											to rewrite the equivalent circuit
+											
+* Superposition principle
+		
+		for each Indepent source response -> zero other source
+ 
+
+ 
+

@@ -1,0 +1,26 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-25T09:21:58+08:00
+
+====== Vector ======
+Created Monday 25 April 2016
+
+* head file
+			
+			#include <vector>
+
+* Declaration
+			
+			Vector<type> VectorName(size) ;
+
+* Some Usage
+
+			VectorName.push_back(2) ;
+			
+			VectorName.pop_up(3);
+			
+			VectorName.resize(3);
+			
+			VectorName[2] ; 
+
+

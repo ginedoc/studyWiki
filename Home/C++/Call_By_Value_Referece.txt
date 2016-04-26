@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-25T09:26:18+08:00
+
+====== Call By Value Referece ======
+Created Monday 25 April 2016
+
+* Call by Reference
+	* swap( &a, &b )   		<= send the reference of a and b
+	* void swap( int *c, int *d )
+
+
+{{./pasted_image.png}}
+
+* reference should be initialized at beginning . Cannot be **reassigned**.
+			x = 3;
+			int &y = x;
+* while a function return a reference , the value should be declare in **static**.
+* The operator to Reference is equal to the operator to the Variable that the Reference point to.
+

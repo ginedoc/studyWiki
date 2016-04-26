@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-25T10:13:00+08:00
+
+====== Function Overloading ======
+Created Monday 25 April 2016
+
+* several unction of the same name
+	as long as having different **signatures**.
+
+* compiler use number, types , order of argument to choose the best fit function.
+
+* used to perform some similar function of the same name but different data types.
+
+* Remember: if the return type of two or more overloading functions is different , it is seemed to be compile error.
+

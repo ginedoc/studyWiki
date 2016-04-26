@@ -1,0 +1,8 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-26T08:30:51+08:00
+
+====== Default Memberwise Assignment ======
+Created Tuesday 26 April 2016
+
+* if the types are equal , it can be assigned in the way using " = " operation.

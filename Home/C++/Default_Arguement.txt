@@ -1,0 +1,9 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-25T10:10:30+08:00
+
+====== Default Arguement ======
+Created Monday 25 April 2016
+
+* int boxVolume( int length = 1, int width = 1, int height = 1)
+* right most arguement

@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-24T19:18:49+08:00
+
+====== Electric field energy & capacitors ======
+Created Sunday 24 April 2016
+
+* **Electrostatic Energy** = work done to assemble the charge configuration of a system.
+												{{./pasted_image.png}}
+
+
+* **Capacitors** : pair of conductors carrying equal but opposite charges.
+
+			{{./equation.png?type=equation}}
+			
+			{{./equation001.png?type=equation}}
+			
+* Parallel-plate capacitor:		{{./equation002.png?type=equation}}  	->	{{./equation003.png?type=equation}} = {{./equation004.png?type=equation}}
+								
+								=>!! C = {{./equation005.png?type=equation}} = Q / V = capacitance
+* Energy stored in capacitors
+
+								{{./equation006.png?type=equation}}
+						=>	{{./equation007.png?type=equation}} = {{./equation008.png?type=equation}}
+						
+* Field Energy Density
+			* Energy density = energy per unit volume
+			
+			{{./equation009.png?type=equation}}
+			
+			{{./equation010.png?type=equation}} 
+			
+* Dielectrics : insulators containing molecular dipoles but no free charges
+
+
+
+			
+

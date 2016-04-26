@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-25T10:25:10+08:00
+
+====== Function Template ======
+Created Monday 25 April 2016
+
+* inside .h file
+
+template <typename T>
+T maximum(T v1, T v2, T v3)
+{
+	T max = v1;
+	......
+	return max;
+}
+
+* As we can see here , T can be any type .
+	This is the representation of "**Fuction Overloading**".
+	
+	
+
+

@@ -1,0 +1,14 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-21T08:22:43+08:00
+
+====== Capacitance ======
+Created Thursday 21 April 2016
+
+* find equal
+	* Series
+			Ceq = 1 / ( 1/C1 + 1/C2)
+	* Parallel 
+			Ceq = C1 + C2
+			
+* i = C * ( dv / dt )

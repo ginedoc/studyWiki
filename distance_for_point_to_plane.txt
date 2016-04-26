@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-21T12:41:08+08:00
+
+====== distance for point to plane ======
+Created Thursday 21 April 2016
+
+plane : ax + by + cz +d = 0
+point : A( x0 , y0 , z0 )
+
+**n **for plane = ( a , b , c )
+=> the line / point at plane should be  
+	
+		 {{./equation002.png?type=equation}}
+		 {{./equation003.png?type=equation}}
+		 {{./equation004.png?type=equation}}
+		
+substitute it to plane	
+		
+		{{./equation006.png?type=equation}}
+		
+we can rewrite the eqaution as
+		
+		{{./equation008.png?type=equation}}
+		
+our goal is the distance between point and plane
+say that there is a point on plane as B( x, y ,z)
+
+ 
+
+
+
+

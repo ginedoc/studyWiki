@@ -1,0 +1,12 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-20T20:50:50+08:00
+
+====== intersection of two planes ======
+Created Wednesday 20 April 2016
+
+* t = | **n1 **cross **n2 **|
+* intersection point ( a , b , c )
+* x  = a + t(x)
+* y  = b + t(y)
+* z  = c + t(z）

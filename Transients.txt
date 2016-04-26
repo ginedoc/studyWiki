@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2016-04-21T08:25:13+08:00
+
+====== Transients ======
+Created Thursday 21 April 2016
+
+* Suppose 
+			
+			i(t) = K1 + K2 * e^(-st)
+			v(t)= K1 + K2 * e^(-st)
+
+* time constant 
+
+		τ = 1 [[/]] s
+
